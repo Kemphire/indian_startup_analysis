@@ -10,3 +10,4 @@ wheels/
 .venv
 .ipynb_checkpoints
 .vector_cache
+.env
